@@ -1,4 +1,4 @@
-# Welcome to Liferay CE 7.0 GA1 Portal Events
+# Welcome to Liferay CE 7.0 GA1 Portal Events Example
 
 In a few days the project description on how to implement the Hook in OSGi style on Liferay 7 CE GA1.
 
