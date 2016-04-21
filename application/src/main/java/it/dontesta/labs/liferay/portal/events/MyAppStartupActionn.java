@@ -30,7 +30,6 @@ public class MyAppStartupActionn implements LifecycleAction {
 		
 		try {
 			User user = _portal.getUser(lifecycleEvent.getRequest());
-			
 			if (_log.isInfoEnabled()) {
 				_log.info("UserId:" + user.getUserId());
 			}
