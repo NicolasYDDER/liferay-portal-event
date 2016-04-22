@@ -1,2 +1,6 @@
-Bundle-Name: Liferay LifecycleEvent Portal Application Events sample
+Bundle-Name: Liferay LifecycleEvent Portal Application Events Sample
 Bundle-Version: 1.0.0-SNAPSHOT
+Bundle-Category: Portal Events
+Bundle-Copyright: Antonio Musarra's Blog
+Bundle-Vendor: Antonio Musarra's Blog
+Bundle-DocURL: http://www.dontesta.it/blog
